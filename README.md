@@ -1,6 +1,3 @@
-Here’s the README file for your **Shopgrids E-commerce Website**, formatted similarly to the WordPress plugin's style:  
-
----
 
 ```
 === Shopgrids E-commerce Website ===  
