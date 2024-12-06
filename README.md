@@ -4,8 +4,8 @@ Here’s the README file for your **Shopgrids E-commerce Website**, formatted si
 
 ```
 === Shopgrids E-commerce Website ===  
-Contributors: [Your Name/Company]  
-Donate link: https://yourwebsite.com/donate  
+Contributors: Shaoun  
+Donate link: 
 Tags: e-commerce, online store, product management, SSLCommerz, cart, checkout  
 Requires at least: PHP 8.0, Node.js 16.0  
 Tested up to: Latest stable versions  
@@ -68,7 +68,7 @@ Perfect for businesses aiming to manage and grow their online store efficiently.
    ```bash  
    php artisan migrate  
    ```  
-6. Run database migrations:  
+6. Artisan key generate:  
    ```bash  
    php artisan key:generate  
    ```     
