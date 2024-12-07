@@ -100,7 +100,7 @@ No, but it’s highly recommended for secure payment processing.
    ![DashBoard](public/web_images/footer.png)
 
 2**Admin Dashboard**  
-   ![Admin Panel](public/web_images/admin_dashboard.png)  
+   ![Admin Panel](public/web_images/Admin_dash.png)  
 
 3**Product Management**  
    ![Product Page](public/web_images/Product.png)
