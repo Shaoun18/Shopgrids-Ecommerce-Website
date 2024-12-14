@@ -22,7 +22,7 @@ Features:
 - Frontend: User registration, profiles, and shopping cart.  
 - SSLCommerz Integration: Secure payment processing.  
 - Real-time Updates: Backend changes reflect instantly on the frontend.  
-- **Mobile-Friendly Design**: Optimized for all devices.  
+- Mobile-Friendly Design: Optimized for all devices.  
 
 Perfect for businesses aiming to manage and grow their online store efficiently.  
 
