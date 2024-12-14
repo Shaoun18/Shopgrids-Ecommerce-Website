@@ -33,7 +33,7 @@ Perfect for businesses aiming to manage and grow their online store efficiently.
 - PHP 8.x
 - Composer (PHP dependency manager)  
 - Node.js 16.x or higher  
-- **MySQL** or a compatible database  
+- MySQL or a compatible database  
 
 ### Steps  
 
