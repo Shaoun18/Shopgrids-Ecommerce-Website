@@ -28,8 +28,9 @@ Perfect for businesses aiming to manage and grow their online store efficiently.
 
 == Installation ==  
 
-### Requirements  
+### Requirements
 
+- Laravel Version - 9.0
 - PHP 8.x
 - Composer (PHP dependency manager)  
 - Node.js 16.x or higher  
@@ -132,8 +133,3 @@ No, but it’s highly recommended for secure payment processing.
 
 This project is licensed under the MIT License.  
 https://opensource.org/licenses/MIT  
-```  
-
----
-
-Feel free to update placeholders like `<repository_url>` and `path_to_screenshots` with the actual links or paths. Let me know if you'd like further refinements!
